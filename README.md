@@ -112,3 +112,6 @@ How it works: when the robot is within 30cm of the right wall the robot tilts le
 In the video it can be seen trying to move as close as possible to the middle of the track whether it started from the middle, left or right at the beginning of the track.
 
 Reason: to keep the robot at the middle of the track.
+
+latest commit...
+Group pictures and building video...
